@@ -1,0 +1,11 @@
+        {
+        "python":"c:/Python27/python.exe",
+        "pythonExtraPaths":
+            [
+                "c:/Python27",
+                 "c:/Python27/DLLs",
+                 "c:/Python27/Lib",
+                 "c:/Python27/Lib/lib-tk",
+                 "C:/Python27/Lib/site-packages"
+            ]
+        }
